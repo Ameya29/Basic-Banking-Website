@@ -1,5 +1,6 @@
 # Basic-Banking-Website
 The Sparks Foundation Internship Project
+
 Domain: Web Development
 
 Technologies Used: 1. HTML 2. CSS 3. JavaScript
